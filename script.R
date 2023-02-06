@@ -8,7 +8,7 @@ use_git_config(user.name = "dannygalpern", use.email = "dannygalpern@gmail.com")
 
 #get token
 create_github_token()
-#PAT personal access token = "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"
+#PAT personal access token = ""
 
 #set token below in console
 gitcreds::gitcreds_set()
